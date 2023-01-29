@@ -1,0 +1,12 @@
+.card {
+  margin-bottom: 2em;
+}
+
+.card-title {
+  font-size: 1.5em;
+  margin-bottom: 0.5em;
+}
+
+.card-text {
+  white-space: pre-wrap;
+}
